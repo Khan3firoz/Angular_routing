@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "miniPro"
+  "defaultProject": "miniPro",
+  "cli": {
+    "analytics": "60be7521-d5e6-49d4-ac04-dfcb650d3da8"
+  }
 }
